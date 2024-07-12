@@ -1,31 +1,42 @@
+
+<!-- Header -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
+</p>
+
 <!-- Title -->
 <h1 align="center">Wildbeast</h1>
 
 <!-- Description -->
-<p align="center">A responsive website project showcasing CSS Flexbox and animations.</p>
+<p align="center">Um projeto de website responsivo demonstrando técnicas de CSS Flexbox e animações.</p>
 
 <!-- Table of Contents -->
-## Table of Contents
-- [About the Project](#about-the-project)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+## Índice
+- [Sobre o Projeto](#sobre-o-projeto)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Como Começar](#como-começar)
+- [Utilização](#utilização)
+- [Contribuições](#contribuições)
+- [Licença](#licença)
 
-<!-- About the Project -->
-## About the Project
-Wildbeast is a website project created to demonstrate responsive design techniques using CSS Flexbox and animations. It features a layout designed to adapt smoothly across different screen sizes, showcasing content in a visually appealing and functional manner.
-a
-<!-- Technologies Used -->
-## Technologies Used
+<!-- Sobre o Projeto -->
+## Sobre o Projeto
+Wildbeast é um projeto de website criado para demonstrar técnicas de design responsivo utilizando CSS Flexbox e animações. Apresenta um layout projetado para se adaptar suavemente a diferentes tamanhos de tela, exibindo conteúdo de maneira visualmente atraente e funcional.
+
+<!-- Tecnologias Utilizadas -->
+## Tecnologias Utilizadas
 - HTML5
-- CSS3 (Flexbox, Animations)
+- CSS3 (Flexbox, Animações)
 
-<!-- Getting Started -->
-## Getting Started
-To get a local copy up and running follow these simple steps:
+<!-- Como Começar -->
+## Como Começar
+Para obter uma cópia local e executar o projeto, siga os passos abaixo:
 
-1. Clone the repository
+1. Clone o repositório
    ```sh
    git clone https://github.com/Felipesv1/wildbeast.git
+
+<!-- Footer -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+</p>
